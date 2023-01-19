@@ -1,0 +1,254 @@
+<changelist name="变更1" date="1674117688682" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/shelved.patch" />
+  <option name="DESCRIPTION" value="变更" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app01/static/img/1.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/img/1.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/11.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app01/static/img/code.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/code.jpg" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/img/code.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/code1.jpg" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app01/static/img/default.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/default.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/img/default.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/default1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/rest_framework/docs/img/favicon.ico" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/favicon.ico" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/rest_framework/fonts/fontawesome-webfont.eot" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/fontawesome-webfont.eot" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/rest_framework/fonts/fontawesome-webfont.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/fontawesome-webfont.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/rest_framework/fonts/fontawesome-webfont.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/fontawesome-webfont.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/rest_framework/img/glyphicons-halflings.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app01/static/plugins/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.eot" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular.eot" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular1.eot" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular2.eot" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/plugins/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.eot" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular3.eot" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/rest_framework/fonts/glyphicons-halflings-regular.eot" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular4.eot" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app01/static/plugins/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular1.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular2.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/plugins/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular3.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/rest_framework/fonts/glyphicons-halflings-regular.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular4.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app01/static/plugins/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular1.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular2.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/plugins/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular3.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/rest_framework/fonts/glyphicons-halflings-regular.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular4.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app01/static/plugins/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.woff2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular.woff2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular1.woff2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular2.woff2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/plugins/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.woff2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular3.woff2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/rest_framework/fonts/glyphicons-halflings-regular.woff2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-regular4.woff2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/rest_framework/img/glyphicons-halflings-white.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/glyphicons-halflings-white.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/rest_framework/docs/img/grid.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/grid.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/rest_framework/img/grid.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/grid1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Monaco.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/Monaco.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="my_nginx.conf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/my_nginx.conf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app01/static/admin/fonts/Roboto-Bold-webfont.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/Roboto-Bold-webfont.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/admin/fonts/Roboto-Bold-webfont.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/Roboto-Bold-webfont1.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app01/static/admin/fonts/Roboto-Light-webfont.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/Roboto-Light-webfont.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/admin/fonts/Roboto-Light-webfont.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/Roboto-Light-webfont1.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app01/static/admin/fonts/Roboto-Regular-webfont.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/Roboto-Regular-webfont.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/admin/fonts/Roboto-Regular-webfont.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/Roboto-Regular-webfont1.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app01/static/img/WX20211117-222041@2x.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/WX20211117-222041@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/img/WX20211117-222041@2x.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/WX20211117-222041@2x1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="media/WX20211117-222203@2x.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/WX20211117-222203@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="media/city/WX20211117-2220412x.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/WX20211117-2220412x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="media/city/WX20211117-2220412x_Pa7R4Xh.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/WX20211117-2220412x_Pa7R4Xh.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="media/city/WX20211117-2222032x.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/WX20211117-2222032x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app01/static/img/图片 1.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/图片 1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="static/img/图片 1.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/变更1/图片 11.png" />
+  </binary>
+</changelist>
